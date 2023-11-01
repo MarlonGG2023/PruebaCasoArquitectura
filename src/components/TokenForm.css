@@ -1,0 +1,45 @@
+
+  .token-input {
+    width: 500px;
+    height: 40px;
+    margin-bottom: 10px;
+    margin-left: 630px;
+    font-family: inherit; 
+  }
+  
+  .token-button {
+    width: 150px;
+    height: 46px;
+    margin-left: 5px;
+    margin-top: -56px;
+    padding: 10px 20px;
+    background-color: #6599ff;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: inherit; 
+  }
+
+  .token-button:hover {
+      background-color: #537ccc;
+  }
+  
+  .token-button:active {
+      background-color: #4b70b9;
+  }
+  
+  .heading{
+    font-weight: bold;
+    font-family: inherit;
+    text-align: center;
+  }
+  
+  .token-image {
+    margin-left: 590px; 
+  }
+  
+  .error{
+    color: red;
+    font-weight: bold;
+  }
